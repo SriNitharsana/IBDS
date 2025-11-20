@@ -16,6 +16,7 @@ public class sum {
         }
 
         System.out.println("Sum = " + sum);
+        System.out.println("success");
         sc.close();
     }
 }
